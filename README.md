@@ -7,11 +7,6 @@ Este proyecto implementa un chat simple utilizando sockets para la comunicación
 - **Servidor**: Gestiona las conexiones de los clientes y distribuye los mensajes a todos los clientes conectados.
 - **Cliente**: Permite a los usuarios enviar y recibir mensajes en tiempo real.
 
-## Video del Funcionamiento
-
-Para ver el chat en acción, consulta el siguiente video:
-[Ver video del chat en funcionamiento](https://github.com/3eze3/Chat-Simple-LAN/edit/main/Funcio.mkv)
-
 ## Uso del Script
 
 ### Clonar el Repositorio

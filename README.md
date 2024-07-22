@@ -10,7 +10,7 @@ Este proyecto implementa un chat simple utilizando sockets para la comunicación
 ## Video del Funcionamiento
 
 Para ver el chat en acción, consulta el siguiente video:
-[Ver video del chat en funcionamiento](URL_DEL_VIDEO)
+[Ver video del chat en funcionamiento](https://github.com/3eze3/Chat-Simple-LAN/edit/main/Funcio.mkv)
 
 ## Uso del Script
 
